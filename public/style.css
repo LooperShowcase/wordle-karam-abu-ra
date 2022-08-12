@@ -1,0 +1,21 @@
+body{
+    background-image: url('https://yt3.ggpht.com/qTPcrKLkOrU_kLqbOhK4mZ43QEr9M29g7ZPj-8KEIONtVr3PogFf_5AaqkGm1a00q9ldHFSUEog=s176-c-k-c0x00ffffff-no-rj-mo');
+
+
+}
+
+.word{
+    display: flex;
+    justify-content: center;
+ 
+}
+.letter{
+    width: 70px;
+    height: 70px;
+    background-color: rgb(255, 255, 255);
+    border: 3px solid rgb(0, 0, 0);
+    margin: 5px;
+    font-size: 50px ;
+    text-align: center;
+
+}
